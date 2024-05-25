@@ -79,3 +79,12 @@ This project successfully analyzed a telecom churn dataset to develop a churn pr
 factors influencing churn were identified, including contract length and value-added services. The 
 findings provide valuable insights for telecom companies to develop targeted retention strategies and 
 reduce customer churn.
+
+ project was created using the following technologies:
+
+- **Python**: Programming language used for development.
+- **Pandas**: Library for data manipulation and analysis.
+- **NumPy**: Library for numerical computations.
+- **Matplotlib**: Library for creating static, animated, and interactive visualizations.
+- **Scikit-Learn**: Machine learning library.
+- **Jupyter Notebook**:
