@@ -88,3 +88,8 @@ reduce customer churn.
 - **Matplotlib**: Library for creating static, animated, and interactive visualizations.
 - **Scikit-Learn**: Machine learning library.
 - **Jupyter Notebook**:
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
